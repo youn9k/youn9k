@@ -1,10 +1,19 @@
-🖥 **iOS를 공부하고 있는 대학생입니다.** 
+#### Youngkyu Song
 
-✎ **블로그 바로가기** [여기!](https://velog.io/@youngking0914)
+&nbsp;
 
-✉️ **메일 주소** : ace_lephant@naver.com
+![Profile views](https://gpvc.arturio.dev/Youngking0914)  [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@youngking0914)](https://velog.io/@youngking0914)
 
-<!---
-Youngking0914/Youngking0914 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!--
+<img src="https://img.shields.io/badge/Swift-E34F26?style=for-the-badge&logo=Swift&logoColor=white"/></a>
+-->
+
+<img src="https://img.shields.io/badge/Swift-E34F26?style=for-the-badge&&logo=Swift&logoColor=white&abel=&color=FA7343&labelColor=FA7343"/></a>
+&nbsp;
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Youngking0914&show_icons=true&count_private=true) 
+
+&nbsp;
+
+
+
