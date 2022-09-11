@@ -2,18 +2,23 @@
 
  ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=YoungkyuSong&fontSize=40&fontAlign=80&fontAlignY=40&color=gradient)
 
+ <h5> 트렌드에 관심이 많고, WWDC 보는 것을 좋아합니다. </h5>
+ <h5> 깔끔한 UX/UI를 중요하게 여기고, 가독성 높은 코드를 짜는 것을 좋아합니다. </h5>
+ <h5> 소통하며 협업하는 것을 중요시합니다. </h5>
  <br><br>
  
- <h3> 💻 Studying With 💻 </h3>
+ <h3> 💻 Study with 💻 </h3>
  
- <img src="https://img.shields.io/badge/Swift-E34F26?style=flat-square&logo=Swift&logoColor=white&label=&color=FA7343&labelColor=FA7343"/>
- <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Swift-E34F26?style=flat-square&logo=Swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/SwiftUI-1c4dd2?style=flat-square&logo=Swift&logoColor=white"/>
+ <img src="https://img.shields.io/badge/XCode-10aef8?style=flat-square&logo=Xcode&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Git-303030?style=flat-square&logo=Git&logoColor=white"/>
  
  <br><br>
  <br><br>
  
  <h3> 👇 Blog 👇 </h3>
- <a href="https://youngkdevlog.tistory.com/"><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-88d9d0?style=flat-square&logo=Tistory&logoColor=white"/></a>
+ <a href="https://youngkdevlog.tistory.com/"><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-88d9d0?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
 
  <br><br>
  
