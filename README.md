@@ -2,8 +2,9 @@
 
  ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=YoungkyuSong&fontSize=40&fontAlign=80&fontAlignY=40&color=gradient)
 
- <h5> 트렌드에 관심이 많고, WWDC 보는 것을 좋아합니다. </h5>
- <h5> 깔끔한 UX/UI를 중요하게 여기고, 가독성 높은 코드를 짜는 것을 좋아합니다. </h5>
+ <h5> 트렌드에 관심이 많습니다. </h5>
+ <h5> 사용자 친화적인 UX/UI 를 고민합니다. </h5>
+ <h5> 가독성 높은 코드를 짜는 것을 좋아합니다. </h5>
  <h5> 소통하며 협업하는 것을 중요시합니다. </h5>
  <br><br>
  
