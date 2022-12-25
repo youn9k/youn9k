@@ -48,6 +48,11 @@
             <img width="256" alt="mac512" src="https://user-images.githubusercontent.com/60254939/202893144-6df212c8-986a-449f-a0fc-6d2a65f4358a.png">
              </a>
             </b></td>
+           <td>
+            <a href="">
+             <img width="256" alt="mac512" src="https://user-images.githubusercontent.com/60254939/209456906-e6b5ed18-acab-4d2f-8dcc-9f9e319e2f7c.png">
+            </a>
+           </td>
      </tr>
    </thead>
    <tbody align="center">
@@ -58,6 +63,9 @@
            <td><b>
              왁타버스 뮤직
            </b></td>
+           <td><b>
+             라니페이퍼
+           </b></td>
       </tr>
       <tr> 
             <td><b>
@@ -65,6 +73,9 @@
             </b></td>
             <td><b>
              Waktaverse Music
+            </b></td>
+            <td><b>
+             RaniPaper
             </b></td>
       </tr>
    </tbody>
