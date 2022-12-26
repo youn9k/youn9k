@@ -81,6 +81,7 @@
       </tr>
    </tbody>
  </table>
+ <h5> <span style="color:#808080">누르면 앱스토어로 연결됩니다.</span> </h5>
 </div>
  
  <br><br>
