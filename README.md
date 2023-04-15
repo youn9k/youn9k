@@ -46,7 +46,7 @@
            </td>
            <td><b>
             <a href="https://apps.apple.com/kr/app/waktaverse-music/id1641642735">
-            <img width="256" alt="mac512" src="https://user-images.githubusercontent.com/60254939/202893144-6df212c8-986a-449f-a0fc-6d2a65f4358a.png">
+            <img width="256" alt="mac512" src="https://user-images.githubusercontent.com/60254939/232179100-bd7243d1-35f2-432b-a316-c6d41d8bf3bc.png">
              </a>
             </b></td>
            <td>
