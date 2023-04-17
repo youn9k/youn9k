@@ -50,7 +50,7 @@
              </a>
             </b></td>
            <td>
-            <a href="">
+            <a href="https://apps.apple.com/kr/app/%EB%9D%BC%EB%8B%88%ED%8E%98%EC%9D%B4%ED%8D%BC/id1660706595">
              <img width="256" alt="mac512" src="https://user-images.githubusercontent.com/60254939/209456906-e6b5ed18-acab-4d2f-8dcc-9f9e319e2f7c.png">
             </a>
            </td>
