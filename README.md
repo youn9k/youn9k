@@ -10,6 +10,9 @@
 <h5> 가독성 높은 코드를 짜는 것을 좋아합니다. </h5>
 <h5> 소통하며 협업하는 것을 중요시합니다. </h5>
 </div>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
  
 <br><br>
  
