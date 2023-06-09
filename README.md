@@ -12,6 +12,11 @@
 </div>
 
 <!-- BLOG-POST-LIST:START -->
+- [Python Selenium Webdriver Chrome Option 관련 오류](https://youngkdevlog.tistory.com/57)
+- [MPNowPlayingInfoCenter 제어센터 초기세팅 및 갱신하는 방법](https://youngkdevlog.tistory.com/56)
+- [UITableView 로 가사 기능&lpar;트래킹, 하이라이팅, 탐색&rpar; 개발 기록](https://youngkdevlog.tistory.com/55)
+- [Tuist Project &#39;Could not build Objective-C module&#39; 오류 해결법](https://youngkdevlog.tistory.com/54)
+- [[백준] BOJ-15649 N과 M &lpar;1&rpar;](https://youngkdevlog.tistory.com/53)
 <!-- BLOG-POST-LIST:END -->
  
 <br><br>
