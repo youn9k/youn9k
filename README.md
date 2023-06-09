@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=YoungkyuSong&fontSize=40&fontAlign=80&fontAlignY=40&color=gradient)
 
-
+<p>  <img width height = "150" src ="https://github-readme-stats.vercel.app/api?username=youn9k&show_icons=true">    <a href="https://opgc.me/#/users/youn9k" target="_blank"><img src="https://api.opgc.me/githubs/users/youn9k/tag/?theme=basic" /></a> </p>
 
 <div align = "center">
 <h5> 트렌드에 관심이 많습니다. </h5>
@@ -83,11 +83,6 @@
 </div>
  
  <br><br>
- 
-|GitHub stats|Top Langs|
-|------|------|
-|[![youn9k's GitHub stats](https://github-readme-stats.vercel.app/api?username=youn9k&count_private=true)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youn9k&hide=scss,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
- 
  
  <hr>
  
