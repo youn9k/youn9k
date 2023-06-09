@@ -4,13 +4,18 @@
 
 <p>  <img width height = "150" src ="https://github-readme-stats.vercel.app/api?username=youn9k&show_icons=true">    <a href="https://opgc.me/#/users/youn9k" target="_blank"><img src="https://api.opgc.me/githubs/users/youn9k/tag/?theme=basic" /></a> </p>
 
+<!--
 <div align = "center">
 <h5> 트렌드에 관심이 많습니다. </h5>
 <h5> 사용자 친화적인 UX/UI 를 고민합니다. </h5>
 <h5> 가독성 높은 코드를 짜는 것을 좋아합니다. </h5>
 <h5> 소통하며 협업하는 것을 중요시합니다. </h5>
 </div>
+-->
 
+<img src="https://img.shields.io/badge/Swift-E34F26?style=for-the-badge&logo=Swift&logoColor=white"/>
+ 
+### 🍋 Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Python Selenium Webdriver Chrome Option 관련 오류](https://youngkdevlog.tistory.com/57)
 - [MPNowPlayingInfoCenter 제어센터 초기세팅 및 갱신하는 방법](https://youngkdevlog.tistory.com/56)
@@ -18,81 +23,39 @@
 - [Tuist Project &#39;Could not build Objective-C module&#39; 오류 해결법](https://youngkdevlog.tistory.com/54)
 - [[백준] BOJ-15649 N과 M &lpar;1&rpar;](https://youngkdevlog.tistory.com/53)
 <!-- BLOG-POST-LIST:END -->
- 
-<br><br>
- 
-<div align = "center">
-<h3> Blog </h3>
-<a href="https://youngkdevlog.tistory.com/"><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-88d9d0?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
-</div>
 
-<br><br>
- 
-<div align = "center">
-<h3> 💻 Current Learning </h3>
-
-<img src="https://img.shields.io/badge/iOS-303030?style=for-the-badge&logo=Apple&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swift-E34F26?style=for-the-badge&logo=Swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/UIKit-010c1e?style=for-the-badge&logo=Swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/SwiftUI-1c4dd2?style=for-the-badge&logo=Swift&logoColor=white"/>
-</div>
+### 💎 Released Apps
+<ol>
+    <p> 
+      <img width = "50" src="https://user-images.githubusercontent.com/60254939/232179100-bd7243d1-35f2-432b-a316-c6d41d8bf3bc.png" align="center"> 
+        <a href = "https://wakmusic.xyz/">  왁타버스 뮤직 </a> 
+    </p> 
+  <ul>
+    <li>🎵 왁타버스 음악 iOS 앱</li>
+    <li>🥇 무료 앱 음악부문 전체 1위</li>
+    <li>🏅 무료 앱 인기차트 전체 2위</li>
+  </ul>
+ </br>
+    <p> 
+       <img width = "50" src="https://user-images.githubusercontent.com/60254939/202892998-0daf7640-7000-42c0-8db4-52f77e344122.png" align="center"> 
+          <a href = "https://apps.apple.com/kr/app/id1622140980">  제발 한짝만 </a> 
+    </p> 
+  <ul>
+    <li>👟 스니커즈 발매 및 응모 정보 iOS 앱</li>
+    <li>😃 졸업 작품 전시회 3위</li>
+  </ul>
+  </br>
+     <p> 
+       <img width = "50" src="https://user-images.githubusercontent.com/60254939/209456906-e6b5ed18-acab-4d2f-8dcc-9f9e319e2f7c.png" align="center"> 
+          <a href = "https://apps.apple.com/kr/app/id1660706595">  라니페이퍼 </a> 
+     </p> 
+  <ul>
+    <li>📒 다이어리 iOS 앱</li>
+    <li>😃 라이프스타일 부문 전체 17위</li>
+  </ul>
+</ol>
  
  <br><br>
- 
- <div align = "center">
- <h3> 💎 Released Apps </h3>
- 
- <table width="100%">
-   <thead align="center">
-     <tr border: none;>
-           <td>
-            <a href="https://apps.apple.com/kr/app/%EC%A0%9C%EB%B0%9C-%ED%95%9C%EC%A7%9D%EB%A7%8C-shoes-please/id1622140980">
-             <img width="256" alt="mac512" src="https://user-images.githubusercontent.com/60254939/202892998-0daf7640-7000-42c0-8db4-52f77e344122.png">
-            </a>
-           </td>
-           <td><b>
-            <a href="https://apps.apple.com/kr/app/waktaverse-music/id1641642735">
-            <img width="256" alt="mac512" src="https://user-images.githubusercontent.com/60254939/232179100-bd7243d1-35f2-432b-a316-c6d41d8bf3bc.png">
-             </a>
-            </b></td>
-           <td>
-            <a href="https://apps.apple.com/kr/app/%EB%9D%BC%EB%8B%88%ED%8E%98%EC%9D%B4%ED%8D%BC/id1660706595">
-             <img width="256" alt="mac512" src="https://user-images.githubusercontent.com/60254939/209456906-e6b5ed18-acab-4d2f-8dcc-9f9e319e2f7c.png">
-            </a>
-           </td>
-     </tr>
-   </thead>
-   <tbody align="center">
-     <tr> 
-           <td><b>
-             제발 한짝만
-           </b></td>
-           <td><b>
-             왁타버스 뮤직
-           </b></td>
-           <td><b>
-             라니페이퍼
-           </b></td>
-      </tr>
-      <tr> 
-            <td><b>
-             Shoes Please
-            </b></td>
-            <td><b>
-             Waktaverse Music
-            </b></td>
-            <td><b>
-             RaniPaper
-            </b></td>
-      </tr>
-   </tbody>
- </table>
- <h5> <span style="color:#808080">누르면 앱스토어로 연결됩니다.</span> </h5>
-</div>
- 
- <br><br>
- 
- <hr>
  
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoungking0914&count_bg=%237E7E7E&title_bg=%23555555&icon=swift.svg&icon_color=%23FF8D00&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
