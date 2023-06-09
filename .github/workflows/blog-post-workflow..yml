@@ -1,0 +1,16 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    # 크론은 https://crontab.guru/ 여기서 확인하면 편리합니다.
+    # 이 크론은 00시 (한국시간 09시)에 실행됩니다.
+    - cron: '0 0 */1 * *'
+  workflow_dispatch:
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://youngkdevlog.tistory.com/rss"
