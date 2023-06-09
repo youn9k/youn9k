@@ -13,9 +13,7 @@
 </div>
 -->
 
-<p align = "center">
-<img src="https://img.shields.io/badge/Swift-E34F26?style=for-the-badge&logo=Swift&logoColor=white"/><br> 
-</p> 
+ <img src="https://img.shields.io/badge/Swift-E34F26?style=for-the-badge&logo=Swift&logoColor=white"/>
  
 ### 🍋 Blog Posts
 <!-- BLOG-POST-LIST:START -->
