@@ -1,8 +1,9 @@
 
-
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=YoungkyuSong&fontSize=40&fontAlign=80&fontAlignY=40&color=gradient)
 
+<!--
 <p>  <img width height = "150" src ="https://github-readme-stats.vercel.app/api?username=youn9k&show_icons=true">    <a href="https://opgc.me/#/users/youn9k" target="_blank"><img src="https://api.opgc.me/githubs/users/youn9k/tag/?theme=basic" /></a> </p>
+-->
 
 <!--
 <div align = "center">
@@ -32,8 +33,8 @@
     </p> 
   <ul>
     <li>🎵 왁타버스 음악 iOS 앱</li>
-    <li>🥇 무료 앱 음악부문 전체 1위</li>
-    <li>🏅 무료 앱 인기차트 전체 2위</li>
+    <li>🥇 App Store 무료 앱 음악부문 전체 1위</li>
+    <li>🏅 App Store 무료 앱 인기차트 전체 2위</li>
   </ul>
  </br>
     <p> 
@@ -51,7 +52,7 @@
      </p> 
   <ul>
     <li>📒 이세계아이돌 비챤과 팬을 위한 다이어리 iOS 앱</li>
-    <li>😃 라이프스타일 부문 전체 17위</li>
+    <li>😃 App Store 라이프스타일 부문 전체 17위</li>
   </ul>
 </ol>
  
