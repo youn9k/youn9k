@@ -18,11 +18,11 @@
  
 ### 🍋 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [XCode15+ Image Color Assets 관리 방법의 변화](https://youngkdevlog.tistory.com/60)
 - [XCode Archive 시 has no member Error 발생](https://youngkdevlog.tistory.com/59)
 - [개인 프로젝트가 유기 당하는 이유와 해결 방법](https://youngkdevlog.tistory.com/58)
 - [Python Selenium Webdriver Chrome Option 관련 오류](https://youngkdevlog.tistory.com/57)
 - [MPNowPlayingInfoCenter 제어센터 초기세팅 및 갱신하는 방법](https://youngkdevlog.tistory.com/56)
-- [UITableView 로 가사 기능&lpar;트래킹, 하이라이팅, 탐색&rpar; 개발 기록](https://youngkdevlog.tistory.com/55)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💎 Released Apps
