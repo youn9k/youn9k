@@ -13,4 +13,4 @@ jobs:
       - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://youngkdevlog.tistory.com/rss"
+          feed_list: "https://youngkdevlog.tistory.com"
