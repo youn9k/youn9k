@@ -18,11 +18,11 @@
  
 ### 🍋 Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [[visionOS] Apple Vision Pro 챌린지 Part.3 세션 정리 및 느낀 점](https://youngkdevlog.tistory.com/63)
-- [[컴퓨터 구조] 시스템 버스&lpar;System Bus&rpar; 및 동작 방식](https://youngkdevlog.tistory.com/62)
-- [[알고리즘] 구간 합, 누적 합&lpar;Prefix Sum&rpar;](https://youngkdevlog.tistory.com/61)
-- [XCode15+ Image Color Assets 관리 방법의 변화](https://youngkdevlog.tistory.com/60)
-- [XCode Archive 시 has no member Error 발생](https://youngkdevlog.tistory.com/59)
+- [[visionOS] Apple Vision Pro 챌린지 Part.3 세션 정리 및 느낀 점](http://youngkdevlog.tistory.com/63)
+- [[컴퓨터 구조] 시스템 버스&lpar;System Bus&rpar; 및 동작 방식](http://youngkdevlog.tistory.com/62)
+- [[알고리즘] 구간 합, 누적 합&lpar;Prefix Sum&rpar;](http://youngkdevlog.tistory.com/61)
+- [XCode15+ Image Color Assets 관리 방법의 변화](http://youngkdevlog.tistory.com/60)
+- [XCode Archive 시 has no member Error 발생](http://youngkdevlog.tistory.com/59)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💎 Released Apps
