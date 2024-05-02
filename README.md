@@ -18,11 +18,11 @@
  
 ### 🍋 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [InjectionIII 라이브러리를 적용하면서 마주한 이슈들](https://youngkdevlog.tistory.com/66)
 - [Swift 찍먹하기](https://youngkdevlog.tistory.com/65)
 - [객체 지향 프로그래밍을 설계할 때는 SOLID 원칙을 지켜야 한다.](https://youngkdevlog.tistory.com/64)
 - [[visionOS] Apple Vision Pro 챌린지 Part.3 세션 정리 및 느낀 점](https://youngkdevlog.tistory.com/63)
 - [[컴퓨터 구조] 시스템 버스&lpar;System Bus&rpar; 및 동작 방식](https://youngkdevlog.tistory.com/62)
-- [[알고리즘] 구간 합, 누적 합&lpar;Prefix Sum&rpar;](https://youngkdevlog.tistory.com/61)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💎 Released Apps
