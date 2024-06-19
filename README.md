@@ -18,11 +18,11 @@
  
 ### 🍋 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Swift 메모리 관점에서의 Image](https://youngkdevlog.tistory.com/69)
 - [모듈화란? with Tuist](https://youngkdevlog.tistory.com/68)
 - [SwiftData 알아보기](https://youngkdevlog.tistory.com/67)
 - [InjectionIII 라이브러리를 적용하면서 마주한 이슈들](https://youngkdevlog.tistory.com/66)
 - [Swift 찍먹하기](https://youngkdevlog.tistory.com/65)
-- [객체 지향 프로그래밍을 설계할 때는 SOLID 원칙을 지켜야 한다.](https://youngkdevlog.tistory.com/64)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💎 Released Apps
