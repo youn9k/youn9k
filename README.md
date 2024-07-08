@@ -18,11 +18,11 @@
  
 ### 🍋 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [네이버 부스트캠프 9기 베이직 과정 회고](https://youngkdevlog.tistory.com/71)
 - [Swift 6.0 접근제어자 Access Control](https://youngkdevlog.tistory.com/70)
 - [Swift 메모리 관점에서의 Image](https://youngkdevlog.tistory.com/69)
 - [모듈화란? with Tuist](https://youngkdevlog.tistory.com/68)
 - [SwiftData 알아보기](https://youngkdevlog.tistory.com/67)
-- [InjectionIII 라이브러리를 적용하면서 마주한 이슈들](https://youngkdevlog.tistory.com/66)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💎 Released Apps
