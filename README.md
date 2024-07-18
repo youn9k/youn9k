@@ -18,11 +18,11 @@
  
 ### 🍋 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [토크나이저, 렉서, 파서 &lpar;Tokenizer, Lexer, Parser&rpar;](https://youngkdevlog.tistory.com/74)
 - [M1 맥에 우분투 가상환경 설치하고 swift 설치하기!](https://youngkdevlog.tistory.com/73)
 - [Git 학습하기](https://youngkdevlog.tistory.com/72)
 - [네이버 부스트캠프 9기 베이직 과정 회고](https://youngkdevlog.tistory.com/71)
 - [Swift 6.0 접근제어자 Access Control](https://youngkdevlog.tistory.com/70)
-- [Swift 메모리 관점에서의 Image](https://youngkdevlog.tistory.com/69)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💎 Released Apps
