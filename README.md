@@ -18,11 +18,11 @@
  
 ### 🍋 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [객체 지향 프로그래밍이란?](https://youngkdevlog.tistory.com/79)
 - [Heap이 Stack에 비해 느릴 수 밖에 없는 이유](https://youngkdevlog.tistory.com/77)
 - [네이버 부스트캠프 9기 챌린지 과정 1주차 회고](https://youngkdevlog.tistory.com/76)
 - [메모리의 구조](https://youngkdevlog.tistory.com/75)
 - [토크나이저, 렉서, 파서 &lpar;Tokenizer, Lexer, Parser&rpar;](https://youngkdevlog.tistory.com/74)
-- [M1 맥에 우분투 가상환경 설치하고 swift 설치하기!](https://youngkdevlog.tistory.com/73)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💎 Released Apps
