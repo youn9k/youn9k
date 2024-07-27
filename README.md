@@ -18,11 +18,11 @@
  
 ### 🍋 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [GCD 공식문서 읽고 정리하기](https://youngkdevlog.tistory.com/84)
+- [네이버 부스트캠프 9기 챌린지 과정 2주차 회고](https://youngkdevlog.tistory.com/83)
 - [9일차 학습정리](https://youngkdevlog.tistory.com/82)
 - [함수형 프로그래밍 with. Swift](https://youngkdevlog.tistory.com/81)
 - [7일차 학습정리](https://youngkdevlog.tistory.com/80)
-- [객체 지향 프로그래밍이란?](https://youngkdevlog.tistory.com/79)
-- [Heap이 Stack에 비해 느릴 수 밖에 없는 이유](https://youngkdevlog.tistory.com/77)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💎 Released Apps
