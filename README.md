@@ -20,9 +20,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [GCD 공식문서 읽고 정리하기](https://youngkdevlog.tistory.com/84)
 - [네이버 부스트캠프 9기 챌린지 과정 2주차 회고](https://youngkdevlog.tistory.com/83)
-- [9일차 학습정리](https://youngkdevlog.tistory.com/82)
+- [발행-구독 패턴&lpar;Publisher-Subscriber Pattern&rpar;](https://youngkdevlog.tistory.com/82)
 - [함수형 프로그래밍 with. Swift](https://youngkdevlog.tistory.com/81)
-- [7일차 학습정리](https://youngkdevlog.tistory.com/80)
+- [Swift 정규표현식](https://youngkdevlog.tistory.com/80)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💎 Released Apps
