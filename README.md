@@ -18,11 +18,11 @@
  
 ### 🍋 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [캐시 데이터 용량 표시 방식 개선하기: ByteFormatter](https://youngkdevlog.tistory.com/85)
 - [GCD 공식문서 읽고 정리하기](https://youngkdevlog.tistory.com/84)
 - [네이버 부스트캠프 9기 챌린지 과정 2주차 회고](https://youngkdevlog.tistory.com/83)
 - [발행-구독 패턴&lpar;Publisher-Subscriber Pattern&rpar;](https://youngkdevlog.tistory.com/82)
 - [함수형 프로그래밍 with. Swift](https://youngkdevlog.tistory.com/81)
-- [Swift 정규표현식](https://youngkdevlog.tistory.com/80)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💎 Released Apps
