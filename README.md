@@ -18,11 +18,11 @@
  
 ### 🍋 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [GCD Sync, Async, Serial, Concurrent 조합해보기](https://youngkdevlog.tistory.com/87)
 - [동시성, 병렬성, 동기&lpar;sync&rpar;, 비동기&lpar;async&rpar; 개념 정리](https://youngkdevlog.tistory.com/86)
 - [캐시 데이터 용량 표시 방식 개선하기: ByteFormatter](https://youngkdevlog.tistory.com/85)
 - [GCD 공식문서 읽고 정리하기](https://youngkdevlog.tistory.com/84)
 - [네이버 부스트캠프 9기 챌린지 과정 2주차 회고](https://youngkdevlog.tistory.com/83)
-- [발행-구독 패턴&lpar;Publisher-Subscriber Pattern&rpar;](https://youngkdevlog.tistory.com/82)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💎 Released Apps
