@@ -18,11 +18,11 @@
  
 ### 🍋 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [day18,19 학습정리](https://youngkdevlog.tistory.com/92)
 - [SQL 기본 쿼리문 정리](https://youngkdevlog.tistory.com/91)
 - [HTTP Request, Response 구조](https://youngkdevlog.tistory.com/90)
 - [네이버 부스트캠프 9기 챌린지 과정 3주차 회고](https://youngkdevlog.tistory.com/89)
 - [Git 동작 방식](https://youngkdevlog.tistory.com/88)
-- [GCD Sync, Async, Serial, Concurrent 조합해보기](https://youngkdevlog.tistory.com/87)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💎 Released Apps
