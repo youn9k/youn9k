@@ -18,11 +18,11 @@
  
 ### 🍋 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [UIScene, UIWindowScene, UIWindow](https://youngkdevlog.tistory.com/96)
 - [IBOutlet과 IBAction](https://youngkdevlog.tistory.com/95)
 - [View Life Cycle](https://youngkdevlog.tistory.com/94)
 - [네이버 부스트캠프 웹・모바일 9기 챌린지 과정을 마치며](https://youngkdevlog.tistory.com/93)
 - [TCP/IP 소켓 통신 개념 및 Network 프레임워크](https://youngkdevlog.tistory.com/92)
-- [SQL 기본 쿼리문 정리](https://youngkdevlog.tistory.com/91)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💎 Released Apps
