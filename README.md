@@ -18,11 +18,11 @@
  
 ### 🍋 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [View Draw Cycle](https://youngkdevlog.tistory.com/100)
 - [네이버 부스트캠프 웹・모바일 9기 멤버십 과정 1차 학습스프린트 회고](https://youngkdevlog.tistory.com/98)
 - [왁뮤 3.0 출시 및 장애 대응 기록](https://youngkdevlog.tistory.com/97)
 - [UIScene, UIWindowScene, UIWindow](https://youngkdevlog.tistory.com/96)
 - [IBOutlet과 IBAction](https://youngkdevlog.tistory.com/95)
-- [View Life Cycle](https://youngkdevlog.tistory.com/94)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💎 Released Apps
