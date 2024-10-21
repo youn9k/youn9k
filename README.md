@@ -18,11 +18,11 @@
  
 ### 🍋 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Swift Task 내에서 weak self를 붙여야 하는가](https://youngkdevlog.tistory.com/104)
 - [네이버 부스트캠프 웹・모바일 9기 멤버십 과정 2차 학습스프린트 회고](https://youngkdevlog.tistory.com/103)
 - [SwiftUI 프로젝트에서 AppDelegate, SceneDelegate 사용하기](https://youngkdevlog.tistory.com/102)
 - [SwiftLint SPM으로 설치하기](https://youngkdevlog.tistory.com/101)
 - [View Draw Cycle](https://youngkdevlog.tistory.com/100)
-- [네이버 부스트캠프 웹・모바일 9기 멤버십 과정 1차 학습스프린트 회고](https://youngkdevlog.tistory.com/98)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💎 Released Apps
