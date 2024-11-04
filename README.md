@@ -18,11 +18,11 @@
  
 ### 🍋 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [네이버 클라우드 VPC 서버에 연결이 되지 않는 문제](https://youngkdevlog.tistory.com/107)
 - [Swift Concurrency - Sendable](https://youngkdevlog.tistory.com/106)
 - [Swift Concurrency - Task](https://youngkdevlog.tistory.com/105)
 - [Swift Task 내에서 weak self를 붙여야 하는가](https://youngkdevlog.tistory.com/104)
 - [네이버 부스트캠프 웹・모바일 9기 멤버십 과정 2차 학습스프린트 회고](https://youngkdevlog.tistory.com/103)
-- [SwiftUI 프로젝트에서 AppDelegate, SceneDelegate 사용하기](https://youngkdevlog.tistory.com/102)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💎 Released Apps
