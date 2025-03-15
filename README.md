@@ -18,11 +18,11 @@
  
 ### 🍋 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [MVC, MVVM, Clean Architecture 정리](https://youngkdevlog.tistory.com/112)
 - [네이버 부스트캠프 웹・모바일 9기를 마치며](https://youngkdevlog.tistory.com/111)
 - [네이버 클라우드 서버 인스턴스 만들기](https://youngkdevlog.tistory.com/110)
 - [nohup 명령어를 사용해도 서버가 꺼지는 문제](https://youngkdevlog.tistory.com/109)
 - [Tuist 없이 모듈 만들기 with DemoApp](https://youngkdevlog.tistory.com/108)
-- [네이버 클라우드 VPC 서버에 연결이 되지 않는 문제](https://youngkdevlog.tistory.com/107)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💎 Released Apps
