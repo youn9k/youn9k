@@ -18,11 +18,11 @@
  
 ### 🍋 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS EC2 npm run build 시 멈추는 문제](https://youngkdevlog.tistory.com/118)
 - [Alamofire 기능 정리](https://youngkdevlog.tistory.com/117)
 - [테스트 가능한 오디오 관리 객체 설계하기](https://youngkdevlog.tistory.com/116)
 - [Audio 기본 지식 이해하기&lpar;Sample, Frame, Sampling Rate, Channel, Bit Depth&rpar;](https://youngkdevlog.tistory.com/114)
 - [AVFAudio - AVAudioSession](https://youngkdevlog.tistory.com/113)
-- [MVC, MVVM, Clean Architecture 정리](https://youngkdevlog.tistory.com/112)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💎 Released Apps
