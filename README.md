@@ -18,11 +18,11 @@
  
 ### 🍋 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Socket vs WebSocket](https://youngkdevlog.tistory.com/122)
+- [HTTP 개요 및 HTTP 버전별 차이](https://youngkdevlog.tistory.com/121)
 - [애플 로그인 서버부터 클라이언트까지&lpar;Swift + Nest.js + TypeScript&rpar;](https://youngkdevlog.tistory.com/120)
 - [CoreData 개요 및 동시성](https://youngkdevlog.tistory.com/119)
 - [AWS EC2 npm run build 시 멈추는 문제](https://youngkdevlog.tistory.com/118)
-- [Alamofire 기능 정리](https://youngkdevlog.tistory.com/117)
-- [테스트 가능한 오디오 관리 객체 설계하기](https://youngkdevlog.tistory.com/116)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💎 Released Apps
