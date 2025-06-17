@@ -18,11 +18,11 @@
  
 ### 🍋 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [iOS Hang, Hitch 그리고 Render Loop](https://youngkdevlog.tistory.com/127)
 - [의존성 역전을 통한 독립적인 네트워크 모듈 설계하기](https://youngkdevlog.tistory.com/126)
 - [Demystify SwiftUI - Identify: SwiftUI는 뷰를 어떻게 구분할까?](https://youngkdevlog.tistory.com/125)
 - [번역&rpar; SwiftUI 간단한 뷰 레이아웃 구성하기](https://youngkdevlog.tistory.com/124)
 - [번역&rpar; SwiftUI 커스텀 뷰 선언하기](https://youngkdevlog.tistory.com/123)
-- [Socket vs WebSocket](https://youngkdevlog.tistory.com/122)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💎 Released Apps
