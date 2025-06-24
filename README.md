@@ -18,11 +18,11 @@
  
 ### 🍋 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [WWDC25 - FoundationModels로 엿본 애플이 꿈꾸는 개인화 AI의 미래](https://youngkdevlog.tistory.com/128)
 - [iOS Hang, Hitch 그리고 Render Loop](https://youngkdevlog.tistory.com/127)
 - [의존성 역전을 통한 독립적인 네트워크 모듈 설계하기](https://youngkdevlog.tistory.com/126)
 - [Demystify SwiftUI - Identify: SwiftUI는 뷰를 어떻게 구분할까?](https://youngkdevlog.tistory.com/125)
 - [번역&rpar; SwiftUI 간단한 뷰 레이아웃 구성하기](https://youngkdevlog.tistory.com/124)
-- [번역&rpar; SwiftUI 커스텀 뷰 선언하기](https://youngkdevlog.tistory.com/123)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💎 Released Apps
