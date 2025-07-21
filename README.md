@@ -18,11 +18,11 @@
  
 ### 🍋 Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Shorts UI 구현하기 &lpar;SwiftUI+UIViewRepresentable+UICollectionView&rpar;](https://youngkdevlog.tistory.com/131)
 - [EC2 인스턴스 스토리지 용량 확장하기](https://youngkdevlog.tistory.com/130)
 - [KingFisher 대신 Nuke](https://youngkdevlog.tistory.com/129)
 - [WWDC25 - FoundationModels로 엿본 애플이 꿈꾸는 개인화 AI의 미래](https://youngkdevlog.tistory.com/128)
 - [iOS Hang, Hitch 그리고 Render Loop](https://youngkdevlog.tistory.com/127)
-- [의존성 역전을 통한 독립적인 네트워크 모듈 설계하기](https://youngkdevlog.tistory.com/126)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💎 Released Apps
