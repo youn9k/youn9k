@@ -1,6 +1,4 @@
-
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=YoungkyuSong&fontSize=40&fontAlign=80&fontAlignY=40&color=gradient)
-
+![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Youngkyu%20Song&reversal=true&fontSize=32&textBg=false&fontAlign=50&desc=Application%20Engineer&descAlignY=60)
 
 <!--
 <div align = "center">
