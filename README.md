@@ -27,10 +27,10 @@
 </div>
 -->
 
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
- 
+
 ### 🍋 Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [[Automation] 피그마 플러그인과 n8n을 활용한 디자인 시스템 배포 자동화](https://youn9k.github.io/posts/%ED%94%BC%EA%B7%B8%EB%A7%88-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8%EA%B3%BC-n8n%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%B0%B0%ED%8F%AC-%EC%9E%90%EB%8F%99%ED%99%94/)
